@@ -7,6 +7,14 @@
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/db47d80-2a2230de-1f2f-489e-98a6-5c578e417e22.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGI0N2Q4MC0yYTIyMzBkZS0xZjJmLTQ4OWUtOThhNi01YzU3OGU0MTdlMjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nJRw0s3pcBJOkHiBzuzIgQCxc3W96qNckEx_g4-NOCY"/>
 </div>
 
+<p>
+i was sent to earth on a lifeling adventure to learn some of the following
+</p>
+
+- socketIO
+- ux/ui design
+- game dev && design
+- 
 
 
 </br>
