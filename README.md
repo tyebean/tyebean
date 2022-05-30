@@ -17,10 +17,10 @@ UX/UI Design
 SocketIO
 
 
-<h3>Contact Me!</h3>
+<!-- <h3>Contact Me!</h3>
   <img 
 src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/dcdsmqy-f7b4cd2b-072a-4f65-a7fb-ec03c8f96d5e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGNkc21xeS1mN2I0Y2QyYi0wNzJhLTRmNjUtYTdmYi1lYzAzYzhmOTZkNWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Rr8bzyQfRwkAlSTanYw9KO18489Xoo-2hceUGLKqhsc">
-</br>
+</br> -->
 
 
 
