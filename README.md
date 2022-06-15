@@ -7,11 +7,10 @@ src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6
     
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/db47d80-2a2230de-1f2f-489e-98a6-5c578e417e22.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGI0N2Q4MC0yYTIyMzBkZS0xZjJmLTQ4OWUtOThhNi01YzU3OGU0MTdlMjIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nJRw0s3pcBJOkHiBzuzIgQCxc3W96qNckEx_g4-NOCY"/>
 
-<p>Im a software engineer looking to burst into the industry as an apprentice or intern. I love working remotely because I’m on a mission to explore! 🌎🚀  When I’m not checking up on colleges and developer friends using google meet or zoom, I’m solving complex problems and learning faster ways to program.</p>
+<p>Im a software engineer looking to burst into the industry as an apprentice or intern. I love working remotely because I’m on a mission to explore the cosmos! 🌎🚀  When I’m not checking up on colleges and developer friends using Google Meet or Zoom, I’m solving complex problems and learning faster ways to program.</p>
 
 </br>
-
-
+![Tye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyebean&count_private=true&hide=stars,issues&show_icons=true&theme=cobalt)
 
 <!-- <h3>Contact Me!</h3>
   <img 
