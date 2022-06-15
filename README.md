@@ -10,13 +10,8 @@ src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6
 <p>Im a software engineer looking to burst into the industry as an apprentice or intern. I love working remotely because I’m on a mission to explore the cosmos! 🌎🚀  When I’m not checking up on colleges and developer friends using Google Meet or Zoom, I’m solving complex problems and learning faster ways to program.</p>
 
 </br>
+
 ![Tye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyebean&count_private=true&hide=stars,issues&show_icons=true&theme=cobalt)
-
-<!-- <h3>Contact Me!</h3>
-  <img 
-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/dcdsmqy-f7b4cd2b-072a-4f65-a7fb-ec03c8f96d5e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGNkc21xeS1mN2I0Y2QyYi0wNzJhLTRmNjUtYTdmYi1lYzAzYzhmOTZkNWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Rr8bzyQfRwkAlSTanYw9KO18489Xoo-2hceUGLKqhsc">
-</br> -->
-
 
 
 <h4>At the end of the day, just remember...</h4>
@@ -27,13 +22,19 @@ src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6
 
 <!-- 
 
-shooting star right
+<!-- <h3>Contact Me!</h3>
+  <img 
+src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/dcdsmqy-f7b4cd2b-072a-4f65-a7fb-ec03c8f96d5e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGNkc21xeS1mN2I0Y2QyYi0wNzJhLTRmNjUtYTdmYi1lYzAzYzhmOTZkNWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Rr8bzyQfRwkAlSTanYw9KO18489Xoo-2hceUGLKqhsc">
+</br> -->
+
+
+<!-- shooting star right
   
 <img 
-src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/db4jhov-bd58ed9a-6ad6-45e4-a5f6-f4bf26e137d1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGI0amhvdi1iZDU4ZWQ5YS02YWQ2LTQ1ZTQtYTVmNi1mNGJmMjZlMTM3ZDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.E-sRclx8w7_yehMjrt0chchWWTXyrxKub_NgsDBm2B8">
+src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/db4jhov-bd58ed9a-6ad6-45e4-a5f6-f4bf26e137d1.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGI0amhvdi1iZDU4ZWQ5YS02YWQ2LTQ1ZTQtYTVmNi1mNGJmMjZlMTM3ZDEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.E-sRclx8w7_yehMjrt0chchWWTXyrxKub_NgsDBm2B8"> -->
 
 
-shooting star left
+<!-- shooting star left
 
 
  <img 
