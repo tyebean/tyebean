@@ -11,9 +11,10 @@ src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyebean&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tyebean&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
-![Tye's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyebean&count_private=true&hide=stars,issues&show_icons=true&theme=bear)
+
+[![Tye's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=tyebean&count_private=true&hide=stars,issues&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h4>At the end of the day, just remember...</h4>
